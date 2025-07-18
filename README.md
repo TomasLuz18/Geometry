@@ -1,4 +1,4 @@
-# 📐 Lab4 - Projeto de Geometria Computacional com POO em Java
+# 📐 Projeto de Geometria Computacional com POO em Java
 
 Este repositório contém uma sequência de exercícios práticos desenvolvidos em **Java com Programação Orientada a Objetos (POO)**, com foco na modelação de formas geométricas, manipulação de estruturas de dados e implementação de testes unitários.
 
